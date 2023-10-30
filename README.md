@@ -1,5 +1,5 @@
 # AI_TLC-system
-AI based traffic light control system.
+
 The availability and the growing number of automobiles in Ethiopia, especially in Addis Ababa brought some problems. Some of the problems are happening because of the operating technique of conventional traffic lights. They work by allocating equal and fixed time for every road that is regardless of their respective load. Mostly as a result of this, we see traffic conjunctions around several road junction areas of the city. Hence, we can say the very approaches that are made to solve the problem, sometimes become the cause of the problem. We have learned that the Addis Ababa City Road Administration has tried to solve the problem, using the statistical way of time allocation in some areas of the city, but the problem is yet far from removed. This all implies that another way of solution should be proposed.
 This project is designed to develop a system that performs execution based on the density of vehicles (Vehicle Count). After calculating the number of vehicles we will come to know in which lane the density is high and based on which signals will be allotted for a particular lane. Raspberry pi is used as a microcontroller for image processing and also provides the signaling time based on the traffic density.
  
